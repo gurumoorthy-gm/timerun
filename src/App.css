@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 5%;
+}
+
+table-container {
+    display: block;
+    height: 5rem
+}
+
+
+image-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+table-body-styles {
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+};
+
+break-button {
+  background-color: #ff9100;
+}
